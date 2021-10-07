@@ -1,0 +1,11 @@
+{
+    "java.completion.enabled": false,
+    "java.debug.settings.enableRunDebugCodeLens": false,
+    "java.test.editor.enableShortcuts": false,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jcalendar-1.4.jar",
+        "jar_files/sqlite-jdbc-3.8.11.2.jar",
+        "AbsoluteLayout.jar"
+    ]
+}
