@@ -83,7 +83,7 @@ public class Inventario extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
+        
         jLabel2.setFont(new java.awt.Font("Tw Cen MT Condensed", 0, 60)); // NOI18N
         jLabel2.setText("Inventario");
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(340, 0, -1, -1));
