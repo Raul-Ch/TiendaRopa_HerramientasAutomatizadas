@@ -309,7 +309,7 @@ public class Ventas extends javax.swing.JFrame {
     private void jMenu3MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenu3MouseClicked
         System.exit(0);
     }//GEN-LAST:event_jMenu3MouseClicked
-
+//LIMPIAR TEXT
     private void txtnuevoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtnuevoActionPerformed
         txtvendedor.setText("");
         txtcliente.setText("");
@@ -320,7 +320,7 @@ public class Ventas extends javax.swing.JFrame {
         txtdescuento.setText("");
         txttotal.setText("");
     }//GEN-LAST:event_txtnuevoActionPerformed
-
+//Calculos
     private void btnokActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnokActionPerformed
         float pi,p,sub;
         pi=Float.parseFloat(txtpiezas.getText());
